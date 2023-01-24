@@ -1,10 +1,10 @@
 ### 👋 Hey, I'm Zach!
 
-## I'm a recent graduate from Texas State University
+## I recently graduated from Texas State University
 
-- 👀 I'm currently searching for software engineering oppurtunities
-- 💻 I'm currently learning front-end development
-- 👾 I love reading, spending time with my friends and playing games
+- 👀 Open and actively searching for software engineering oppurtunities
+- 💻 I'm currently learning full-stack development
+- 🎸 I love reading, spending time with my dog, and playing bass!
 
 <!--### 📲 How to reach me --->
 
