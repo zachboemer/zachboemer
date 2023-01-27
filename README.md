@@ -2,9 +2,9 @@
 
 ## I recently graduated from Texas State University
 
-- 👀 Open and actively searching for software engineering oppurtunities
+- 👀 Actively searching for software engineering oppurtunities
 - 💻 I'm currently learning full-stack development
-- 🎸 I love reading, spending time with my dog, and playing bass!
+- 🎸 I love reading, playing bass, rock climbing, and spending time with my dog!
 
 <!--### 📲 How to reach me --->
 
