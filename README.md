@@ -1,7 +1,7 @@
 ### 👋 Hey, I'm Zach!
 
 - 💻 I'm currently learning full-stack development
-- 🎸 I love reading, playing bass, rock climbing, and spending time with my dog!
+- 🎸 I love pottery, playing bass, rock climbing, and spending time with my dog!
 
 <!--### 📲 How to reach me --->
 
